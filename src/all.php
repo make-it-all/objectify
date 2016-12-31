@@ -16,4 +16,4 @@
   include 'objectification/collection/all.php';
 
   //numbers
-  include 'objectification/numeric/all.php';
+  include 'objectification/number/all.php';

@@ -8,5 +8,8 @@
       "email": "henry@cd2solutions.co.uk"
     }
   ],
-  "require": {}
+  "require": {},
+  "autoload": {
+    "files": ["src/all.php"]
+  }
 }

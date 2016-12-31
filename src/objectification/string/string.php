@@ -2,7 +2,7 @@
 
 class Str extends Object implements \ArrayAccess {
 
-  function __construct($value) {
+  function __construct($value="") {
     $this->value = (string)$value;
   }
 
