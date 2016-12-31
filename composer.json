@@ -1,0 +1,12 @@
+{
+  "name": "hexmodr/objectify",
+  "description": "Objectify is a collection of php helper classes and functions designed to added support features to make development less frustrating.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Henry Morgan",
+      "email": "henry@cd2solutions.co.uk"
+    }
+  ],
+  "require": {}
+}
