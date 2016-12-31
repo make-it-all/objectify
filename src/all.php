@@ -1,19 +1,19 @@
 <?php
 
   //base
-  include 'objectification/object.php';
+  include 'objectify/object.php';
 
   //errors
-  include 'objectification/errors/all.php';
+  include 'objectify/errors/all.php';
 
   //modules
-  include 'objectification/traits/all.php';
+  include 'objectify/traits/all.php';
 
   //strings
-  include 'objectification/string/all.php';
+  include 'objectify/string/all.php';
 
   //collections
-  include 'objectification/collection/all.php';
+  include 'objectify/collection/all.php';
 
   //numbers
-  include 'objectification/number/all.php';
+  include 'objectify/number/all.php';
