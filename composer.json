@@ -8,8 +8,12 @@
       "email": "henry@cd2solutions.co.uk"
     }
   ],
-  "require": {},
+  "require": {
+    "phpdocumentor/phpdocumentor": "2.*"
+  },
   "autoload": {
-    "files": ["src/all.php"]
+    "psr-4": {
+      "Objectify\\": "src"
+    }
   }
 }

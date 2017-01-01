@@ -1,4 +1,4 @@
-<?php namespace Objectify\Boolean;
+<?php namespace Objectify;
 
 
 class False < Objectify\Object {
